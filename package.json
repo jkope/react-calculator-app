@@ -1,6 +1,6 @@
 {
   "name": "react-calc",
-  "homepage": "http://jkope.github.io/react-calculator-app",
+  "homepage": "https://jkope.github.io/react-calculator-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
