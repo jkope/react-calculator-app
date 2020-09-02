@@ -1,13 +1,14 @@
 {
   "name": "react-calc",
+  "homepage": "http://jkope.github.io/react-calculator-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "mathjs": "^5.1.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4",
-    "homepage": "http://jkope.github.io/react-calculator-app"
+    "react-scripts": "1.1.4"
+    
   },
   "scripts": {
     "predeploy": "npm run build",
